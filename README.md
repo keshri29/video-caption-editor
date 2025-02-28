@@ -8,8 +8,6 @@ Add captions to the video with specific start and end times.
 
 View the captions in real-time as the video plays.
 
-Download the video with captions burned into it (requires backend implementation).
-
 The project features a modern and responsive UI with animations, making it user-friendly and visually appealing.
 
 Table of Contents
@@ -47,10 +45,6 @@ ReactPlayer: A React component for playing videos from various sources.
 
 Tailwind CSS: Utility-first CSS framework for styling.
 
-Framer Motion: Library for animations and transitions.
-
-Axios: For making HTTP requests (used for backend integration).
-
 React Router DOM: For navigation between pages.
 
 Setup and Installation
@@ -64,7 +58,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/video-caption-editor.git
+git clone [https://github.com/your-username/video-caption-editor.git](https://github.com/keshri29/video-caption-editor.git)
 cd video-caption-editor
 Install Dependencies:
 
@@ -97,14 +91,6 @@ Use the play/pause button to control the video.
 
 Captions will appear in real-time as the video plays.
 
-View Captions List:
-
-All added captions are displayed in the "Captions List" section.
-
-Download Video (Future Feature):
-
-A backend integration is required to burn captions into the video and enable downloading.
-
 Project Structure
 Copy
 video-caption-editor/
@@ -119,29 +105,6 @@ video-caption-editor/
 ├── package.json             # Project dependencies
 ├── README.md                # Project documentation
 └── .gitignore               # Files to ignore in Git
-Future Enhancements
-Backend Integration: Add a backend to burn captions into the video and enable downloading.
-
-AI-Powered Captioning: Use AI to automatically generate captions.
-
-Export Options: Allow users to export captions as SRT or VTT files.
-
-User Authentication: Add login/signup functionality to save user progress.
-
-Multi-Language Support: Support for captions in multiple languages.
-
-Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/your-feature).
-
-Commit your changes (git commit -m 'Add some feature').
-
-Push to the branch (git push origin feature/your-feature).
-
-Open a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -154,5 +117,3 @@ Email: your-email@example.com
 GitHub: your-username
 
 Enjoy using the Video Caption Editor! 🎥✨
-
-New chat
