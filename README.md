@@ -58,7 +58,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone [https://github.com/your-username/video-caption-editor.git](https://github.com/keshri29/video-caption-editor.git)
+git clone [https://github.com/keshri29/video-caption-editor.git]
 cd video-caption-editor
 Install Dependencies:
 
@@ -111,9 +111,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or feedback, feel free to reach out:
-
-Email: your-email@example.com
-
-GitHub: your-username
 
 Enjoy using the Video Caption Editor! 🎥✨
